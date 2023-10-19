@@ -1,27 +1,31 @@
-# undefined
+# README Generator
 
   ## Table of Contents
-  1. [Description] (#description)
-  2. [Installation] (#installation)
-  3. [Usage] (#usage)
-  4. [License] (#license)
-  5. [Contributors] (#contributors)
-  6. [Testing Instructions] (#testing instructions)
+  1. Description
+  2. Installation
+  3. Usage
+  4. License
+  5. Contributors
+  6. Testing
 
   ## Description
-  it is super fun
+  A project that creates a README generator, built using only JavaScript.
 
   ## Installation
-  NPM
+  NPM and Inquirer
 
   ## Usage
-  To learn;
+  To practice using Node.JS and JavaScript skills.;
 
   ## License
   Please refer to MIT License
 
-  ## Contributors
+  ## Contributing
   None
 
-  ## Testing Instructions
+  ## Tests
   None
+
+  ## Questions
+  GitHub Profile: MAT-2
+  Email: hello123@email.com
