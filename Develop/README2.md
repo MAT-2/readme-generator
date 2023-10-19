@@ -9,13 +9,13 @@
   6. Testing
 
   ## Description
-  This is a project that uses Node.JS to create a README file.
+  It is a project that uses Node.JS to create a README file.
 
   ## Installation
   NPM, Inquirer, Node.JS
 
   ## Usage
-  To practice using Node.JS and JavaScript.;
+  To practice Node.JS;
 
   ## License
   Please refer to MIT License
@@ -24,8 +24,8 @@
   None
 
   ## Tests
-  Please go to your integrated terminal and type node index.js to start the inputting process.
+  None
 
   ## Questions
   GitHub Profile: MAT-2
-  Email: hello123@email.com
+  Email: hello123@gmail.com
