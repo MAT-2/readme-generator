@@ -9,13 +9,13 @@
   6. Testing
 
   ## Description
-  A project that creates a README generator, built using only JavaScript.
+  This is a project that uses Node.JS to create a README file.
 
   ## Installation
-  NPM and Inquirer
+  NPM, Inquirer, Node.JS
 
   ## Usage
-  To practice using Node.JS and JavaScript skills.;
+  To practice using Node.JS and JavaScript.;
 
   ## License
   Please refer to MIT License
@@ -24,7 +24,7 @@
   None
 
   ## Tests
-  None
+  Please go to your integrated terminal and type node index.js to start the inputting process.
 
   ## Questions
   GitHub Profile: MAT-2

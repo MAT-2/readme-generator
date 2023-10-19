@@ -4,6 +4,11 @@ A Node.JS project that generates a README file.
 
 ## References
 
+- https://www.npmjs.com/
+- https://www.npmjs.com/package/inquirer/v/8.2.4#examples
+- https://nodejs.dev/en/learn/writing-files-with-nodejs/
+- https://www.geeksforgeeks.org/node-js-fs-writefile-method/
+
 ## Installation
 
 - https://www.npmjs.com/ npm init -y-
@@ -12,3 +17,5 @@ A Node.JS project that generates a README file.
 ## License
 
 Refer to LICENSE
+
+## Video Submission
